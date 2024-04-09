@@ -28,9 +28,10 @@ body {
 }
 
 .login-box h1 {
+    display: flex;
     font-size: 36px;
-    text-align: center;
-    margin: 15px 0 -15px 0;
+    justify-content: space-between;
+    margin: 15px 45px -15px 30px;
 }
 
 .login-box .input-box {
